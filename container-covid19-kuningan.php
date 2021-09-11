@@ -1,5 +1,5 @@
 # ------ #
-# 20210911 : Create Github Repo As Cisco DevAsc Student #
+# 20210911 : Create Github Repo As Cisco DEVNET Associate Student #
 # https://github.com/lukisugianto/API-covid19-kuningan #
 # ------ #
 
